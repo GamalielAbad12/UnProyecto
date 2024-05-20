@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T04:55:49.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="5NDYSBzHTeeSY-iBZb-e" version="24.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-20T05:04:43.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="roYt-GdIGTosS6idpGvW" version="24.4.4" type="github" pages="2">
   <diagram name="Page-1" id="t3eCSwud4e4TgrzSVte0">
     <mxGraphModel dx="780" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,13 +32,16 @@
           <mxGeometry x="630" y="120" width="100" height="840" as="geometry" />
         </mxCell>
         <mxCell id="D_JD7jL3TGWgRk3IjNof-17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="o4KUA2V1EvotBa9ctoQ6-6">
-          <mxGeometry x="45" y="220" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="220" width="10" height="210" as="geometry" />
         </mxCell>
         <mxCell id="o4KUA2V1EvotBa9ctoQ6-7" value="Muro" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="750" y="120" width="100" height="840" as="geometry" />
         </mxCell>
         <mxCell id="o4KUA2V1EvotBa9ctoQ6-8" value="Publicaion" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="870" y="120" width="100" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="D_JD7jL3TGWgRk3IjNof-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="o4KUA2V1EvotBa9ctoQ6-8">
+          <mxGeometry x="45" y="235" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o4KUA2V1EvotBa9ctoQ6-9" value="Comentarios" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1250" y="120" width="100" height="840" as="geometry" />
@@ -48,6 +51,9 @@
         </mxCell>
         <mxCell id="o4KUA2V1EvotBa9ctoQ6-11" value="Tabla_Publicaion" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="980" y="120" width="100" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="D_JD7jL3TGWgRk3IjNof-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="o4KUA2V1EvotBa9ctoQ6-11">
+          <mxGeometry x="45" y="315" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o4KUA2V1EvotBa9ctoQ6-12" value="RelacionDePublicaciones" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1090" y="120" width="150" height="840" as="geometry" />
@@ -98,6 +104,24 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="570" y="360" as="sourcePoint" />
             <mxPoint x="675" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D_JD7jL3TGWgRk3IjNof-19" value="&lt;div&gt;Instancia el objeto publicación.&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="o4KUA2V1EvotBa9ctoQ6-8">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="690" y="390" as="sourcePoint" />
+            <mxPoint x="770" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D_JD7jL3TGWgRk3IjNof-21" value="Regresa el objeto publicación." style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="o4KUA2V1EvotBa9ctoQ6-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="420" as="sourcePoint" />
+            <mxPoint x="680" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D_JD7jL3TGWgRk3IjNof-24" value="Guarda objeto publicación en la tabla_publicaciones." style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="o4KUA2V1EvotBa9ctoQ6-11">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="680" y="470" as="sourcePoint" />
+            <mxPoint x="760" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
