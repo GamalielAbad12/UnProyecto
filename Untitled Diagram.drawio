@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T06:24:45.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="NMPMzCDyZEYaup38Mrai" version="24.4.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-21T04:05:21.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_n8paz0nCqgECH-amjn4" version="24.4.4" type="github" pages="3">
   <diagram name="Page-1" id="t3eCSwud4e4TgrzSVte0">
     <mxGraphModel dx="1872" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -224,7 +224,7 @@
           <mxGeometry x="750" y="120" width="100" height="840" as="geometry" />
         </mxCell>
         <mxCell id="cGztmx226EeI62KTXeBS-8" value="Publicaion" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="870" y="80" width="100" height="880" as="geometry" />
+          <mxGeometry x="870" y="120" width="100" height="840" as="geometry" />
         </mxCell>
         <mxCell id="3ObplA-F82L6_vM07ka5-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="cGztmx226EeI62KTXeBS-8">
           <mxGeometry x="45" y="730" width="10" height="80" as="geometry" />
@@ -398,7 +398,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TzU8ZbC1V4T4_X3mtrT5" name="Page-3">
-    <mxGraphModel dx="936" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="749" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -407,6 +407,9 @@
         </mxCell>
         <mxCell id="zTXpRgm4XdI727N4lyQI-2" value="IU_GestorMuro" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="100" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="hh1uTSpj3vcO3JGGz4MR-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="zTXpRgm4XdI727N4lyQI-2">
+          <mxGeometry x="45" y="60" width="10" height="150" as="geometry" />
         </mxCell>
         <mxCell id="zTXpRgm4XdI727N4lyQI-3" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Controlador_Principal&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="285" y="120" width="100" height="840" as="geometry" />
@@ -441,8 +444,14 @@
         <mxCell id="zTXpRgm4XdI727N4lyQI-13" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
           <mxGeometry x="100" y="110" width="20" height="850" as="geometry" />
         </mxCell>
-        <mxCell id="zTXpRgm4XdI727N4lyQI-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;FUNCIONALIDAD: Gestor Muro : Realizar publicación&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="60" width="590" height="30" as="geometry" />
+        <mxCell id="zTXpRgm4XdI727N4lyQI-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;FUNCIONALIDAD: Realizar Comentario en el Gestor de Muro (Requiere búsqueda y selección de publicación previa).&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="60" width="930" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hh1uTSpj3vcO3JGGz4MR-1" value="Selecciona realizar comentario" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" target="zTXpRgm4XdI727N4lyQI-2">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="110" y="210" as="sourcePoint" />
+            <mxPoint x="220" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
